@@ -7,7 +7,6 @@ public class Main {
         boolean isRunning = true;
 
             Scanner sc = new Scanner(System.in);
-            ArrayList<String> AnimeList = new ArrayList<>();
             AnimeDatabase aList = new AnimeDatabase();
 
             while (isRunning) {
